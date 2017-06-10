@@ -19,7 +19,7 @@ public var defaultTags: [String: Tag] = [
     "embed": Embed(),
     "index": Index(),
     "equal": Equal(),
-    
+    "notequal": NotEqual(),
     // Layouts
     "extend": Extend(),
     "import": Import(),
